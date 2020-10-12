@@ -1,0 +1,14 @@
+{
+  "name": "familytreegen",
+  "version": "1.0.0",
+  "description": "Generates a family tree of JSON",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
+}
